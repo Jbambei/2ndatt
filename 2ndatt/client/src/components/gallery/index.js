@@ -1,6 +1,6 @@
-import React, { Component } from 'react';
-import Save from "../Save";
-import API from "../../utils/API";
+import React, { Component } from 'react'
+import Save from "../Save"
+import API from "../../utils/API"
 
 class Gallery extends Component {
     saveBook(props) {
@@ -70,4 +70,4 @@ class Gallery extends Component {
     }
 }
 
-export default Gallery;
+export default Gallery
